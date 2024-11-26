@@ -1,7 +1,7 @@
 # Dr. Nielsen's AP Computer Science classroom repository
 created with the help of Ael, Miguel, Logan, Gabby, Josh, Maggie and Sam
 # Installing Git on Windows devices
-this should be completed by Ael, Miguel and Logan
+this should be completed by Ael, Miguel and Sam
 # Installing Git on MacBook devices
 1. Easiest and simplest method for installing Git is to use a package manager. We will use **homebrew**. To install homebrew, go [here](https://github.com/Homebrew/brew/releases/) and click on **latest**.
 2. At the bottom of the page you will find a **.pkg** file in the **assets** section. Download the file.
@@ -14,3 +14,4 @@ this should be completed by Ael, Miguel and Logan
 If you are already here, you probably already have a username and password for GitHub. If not, get one!
 # Connect PyCharm to Git
 Look at the menu at the top of PyCharm: if you see VCS (which stands for Version Control System), open that menu and follow the prompts to create a GitHub repository. If PyCharm does not recognize that Git is installed, restart PyCharm.
+bob the builder is great
